@@ -1,5 +1,5 @@
 name: AutoMuted
-main: cn.lran.plugin.Main
-version: "1.0.0"
+main: cn.lran.plugin.AutoMuted.Main
+version: "1.0.1"
 author: LRan
 api: ["1.0.0"]
