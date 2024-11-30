@@ -14,6 +14,7 @@ public class Main extends PluginBase implements Listener {
     @Override
     public void onLoad(){
         this.getLogger().info("插件加载");
+        this.getLogger().info("插件作者：LRan");
         //插件加载
     }
     @Override
